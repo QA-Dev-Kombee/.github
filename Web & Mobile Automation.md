@@ -28,15 +28,7 @@ We specialize in automation that delivers high velocity, accuracy, and confidenc
 - 📲 End-to-end native/hybrid testing via Appium
 - 🔁 Device gestures, OS versioning, deep linking, camera/GPS simulation
 - 🚀 Real device cloud integrations (BrowserStack, LambdaTest)
-
-### ⚙️ Performance Testing
-- 🚦 Load and stress testing with **Apache JMeter**
-- 🌐 Cloud-based distributed performance testing using **BlazeMeter**
-- 📈 Concurrent users simulation, latency tracking, and throughput measurement
-- 🔁 Integration into CI/CD workflows with thresholds and alerts
-
 ---
-
 ## 🧱 Frameworks & Utilities
 
 - 🧩 Page Object & Modular-based framework designs
