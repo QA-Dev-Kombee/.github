@@ -29,10 +29,11 @@ We specialize in automation that delivers high velocity, accuracy, and confidenc
 - 🔁 Device gestures, OS versioning, deep linking, camera/GPS simulation
 - 🚀 Real device cloud integrations (BrowserStack, LambdaTest)
 
-### 🔐 API Automation
-- 🔍 Request chaining, schema validation, error handling
-- ⚙️ Environment-based test runs (dev/stage/prod)
-- 📦 Integration with CI/CD & test data builders
+### ⚙️ Performance Testing
+- 🚦 Load and stress testing with **Apache JMeter**
+- 🌐 Cloud-based distributed performance testing using **BlazeMeter**
+- 📈 Concurrent users simulation, latency tracking, and throughput measurement
+- 🔁 Integration into CI/CD workflows with thresholds and alerts
 
 ---
 
