@@ -25,9 +25,13 @@ We specialize in automation that delivers high velocity, accuracy, and confidenc
 - 🌍 Cross-browser & responsive validation
 
 ### 📱 Mobile Automation
-- 📲 End-to-end native/hybrid testing via Appium
-- 🔁 Device gestures, OS versioning, deep linking, camera/GPS simulation
-- 🚀 Real device cloud integrations (BrowserStack, LambdaTest)
+
+- 🤖 End-to-end test automation for **native**, **hybrid**, and **mobile web apps** using **Appium**, enabling seamless cross-platform testing on Android and iOS.
+- 🎯 Automates complex scenarios including gestures (swipe, tap, scroll), OS version handling, **deep linking**, hardware simulations (camera, GPS), and **biometric auth**.
+- ☁️ Integrated with **BrowserStack** and **LambdaTest** for real device testing, including video capture, logs, and instant feedback across multiple devices and OS versions.
+- 🧩 Built on a modular Page Object framework (TestNG/WebDriverIO), enabling **scalable, maintainable** test suites with rich reporting via **Allure** and **Mochawesome**.
+- 🚀 Fully integrated with CI/CD pipelines (**GitHub Actions**, **Jenkins**) to enable automated regression runs on pull requests, merges, or nightly builds.
+
 ---
 ## 🧱 Frameworks & Utilities
 
