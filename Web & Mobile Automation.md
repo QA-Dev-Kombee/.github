@@ -19,10 +19,13 @@ With deep-rooted expertise in Quality Assurance, Kombee's Automation Hub empower
 We specialize in automation that delivers high velocity, accuracy, and confidence in every deployment:
 
 ### ✅ Web Automation
-- 🌐 UI automation using Cypress, Selenium, and Playwright
-- 🧾 Form workflows, tables, file uploads/downloads
-- 🔄 Data-driven and visual regression testing
-- 🌍 Cross-browser & responsive validation
+
+- 🌐 Robust UI test automation using **Cypress**, **Selenium**, and **Playwright**, tailored for modern single-page apps (SPAs) and enterprise web platforms.
+- 📝 Automates critical user journeys including **form submissions**, **tabular data handling**, **file upload/download**, and **interactive elements** like modals and dropdowns.
+- 📊 Implements **data-driven testing** with fixtures and custom commands, and supports **visual regression** via screenshot diffing for pixel-perfect interfaces.
+- 🌎 Validated across multiple browsers and screen sizes for **cross-browser** (Chrome, Edge, Firefox) and **responsive UI behavior** using Cypress Viewport & Playwright Device Emulation.
+- 🔁 Integrated directly with CI/CD pipelines for automated test runs on every PR, commit, or deployment, with alerts on failures via **Slack** or **email**.
+
 
 ### 📱 Mobile Automation
 
