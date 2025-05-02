@@ -71,11 +71,11 @@ We empower DevOps workflows with automation-first pipelines:
 
 ### 🔸 Demo Projects:
 - [E2E Cypress Automation Framework](https://github.com/kombee-technologies/cypress-web-starter/blob/master/README.md)
-- [Mobile Appium BDD Sample](https://github.com)
+- [Mobile Appium Framework](https://github.com/qahetalpatel/appium-mobile-starter.git)
 
 ### 🖼️ UI Screenshots:
-![Cypress Dashboard](automation_dashboard1.png)
-![API Test Summary](automation_dashboard2.png)
+![Cypress Dashboard](appium-1.png)
+![API Test Summary](appium-2.png)
 
 ---
 
