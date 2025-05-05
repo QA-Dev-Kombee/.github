@@ -25,10 +25,6 @@ We specialize in automation that delivers high velocity, accuracy, and confidenc
 - 📊 Implements **data-driven testing** with fixtures and custom commands.
 - 🌎 Validated across multiple browsers and screen sizes for **cross-browser** (Chrome, Edge, Firefox) and **responsive UI behavior** using Cypress Viewport & Device Emulation.
 - 🔁 Integrated directly with CI/CD pipelines for automated test runs on every PR, commit, or deployment, with alerts on failures via **Slack** or **email**.
-![Cypress Dashboard](cypress-1.png)
-![API Test Summary](cypress-2.png)
-![Cypress Dashboard](cypress-3.png)
-
 
 
 ### 📱 Mobile Automation
