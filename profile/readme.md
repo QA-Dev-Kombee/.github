@@ -70,7 +70,7 @@ We empower DevOps workflows with automation-first pipelines:
 - Admin approval workflows
 
 ### 🔸 Demo Projects:
-- [E2E Cypress Automation Framework](https://github.com/kombee-technologies/cypress-web-starter/blob/master/README.md)
+- [Cypress Automation Framework (E2E)](https://github.com/kombee-technologies/cypress-web-starter/blob/master/README.md)
 - [Mobile Appium Framework](https://github.com/qahetalpatel/appium-mobile-starter.git)
 
 ### 🖼️ UI Screenshots:
