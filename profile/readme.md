@@ -4,7 +4,6 @@
 With deep-rooted expertise in Quality Assurance, Kombee's Automation Hub empowers businesses to deliver flawless software experiences. From enterprise-grade systems to startup solutions, we engineer robust, scalable, and intelligent test automation strategies across web, mobile, and API platforms.
 
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 [![Allure](https://img.shields.io/badge/Allure-495057?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure/)
