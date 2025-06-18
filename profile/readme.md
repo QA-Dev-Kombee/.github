@@ -74,7 +74,7 @@ We empower DevOps workflows with automation-first pipelines:
 
 ### 🖼️ UI Screenshots:
 ![Cypress Dashboard](appium-1.png)
-![API Test Summary](appium-2.png)
+![API Test Summary](cypress-4.png)
 
 ---
 
